@@ -36,6 +36,14 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jeex-dyform-ueditor/pom.xml" />
+        <option value="$PROJECT_DIR$/jeex-workflow-activiti/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.7" />
   </component>
