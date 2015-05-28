@@ -23,7 +23,9 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jeex-dyform-ueditor" />
+        <module name="jeex-dyform-ueditor (1)" />
         <module name="jeex-workflow-activiti" />
+        <module name="workspace-idea-jeex" />
       </profile>
     </annotationProcessing>
   </component>

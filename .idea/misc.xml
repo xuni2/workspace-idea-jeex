@@ -41,6 +41,7 @@
       <list>
         <option value="$PROJECT_DIR$/jeex-dyform-ueditor/pom.xml" />
         <option value="$PROJECT_DIR$/jeex-workflow-activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
