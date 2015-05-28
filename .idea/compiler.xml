@@ -25,8 +25,11 @@
         <module name="jeex-dyform-ueditor" />
         <module name="jeex-dyform-ueditor (1)" />
         <module name="jeex-workflow-activiti" />
-        <module name="workspace-idea-jeex" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jeex-dyform-ueditor" target="1.6" />
+      <module name="jeex-workflow-activiti" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
